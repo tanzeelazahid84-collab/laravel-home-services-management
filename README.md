@@ -1,2 +1,2 @@
 # laravel-home-services-management
-A Laravel-based home services management system with authentication, role-based access control, service booking, and admin dashboard.
+A comprehensive Laravel application demonstrating authentication, role-based access control, CRUD operations, Eloquent ORM, Blade templating, middleware, form validation, and MySQL integration following the MVC architecture.
